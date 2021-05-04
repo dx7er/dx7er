@@ -8,7 +8,7 @@
 - 📫 You can contact on Email: saqlainnaqvi1472@gmail.com.
 
 # STATS!
-[![snaqvi5 GitHub stats](https://github-readme-stats.vercel.app/api?username=snaqvi5)](https://github.com/snaqvi/github-readme-stats)
+[![snaqvi5 GitHub stats](https://github-readme-stats.vercel.app/api?username=snaqvi5)](https://github.com/snaqvi5/github-readme-stats)
 
 <a href="https://github.com/snaqvi5">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snaqvi5&theme=dark&hide_langs_below=1" />
