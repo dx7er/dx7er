@@ -6,7 +6,7 @@
 - 🌱 Eager to Learn and want to become a Passionate Programmer and Ethical Hacker.
 - 📫 You can contact on Email: saqlainnaqvi1472@gmail.com.
 
-[![snaqvi5 GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![snaqvi5 GitHub stats](https://github-readme-stats.vercel.app/api?username=snaqvi5)](https://github.com/snaqvi/github-readme-stats)
 <!---
 snaqvi5/snaqvi5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
