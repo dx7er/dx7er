@@ -8,11 +8,11 @@
 - 📫 You can contact on Email: saqlainnaqvi1472@gmail.com.
 
 # STATS!
-<a href="https://github.com/snaqvi5">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=snaqvi5&show_icons=true&theme=dark&line_height=27" alt="Naqvi's github stats"/>
+<a href="https://github.com/naqviO7">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=naqviO7&show_icons=true&theme=dark&line_height=27" alt="Naqvi's github stats"/>
 </a>
-<a href="https://github.com/snaqvi5">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snaqvi5&theme=dark&hide_langs_below=1" />
+<a href="https://github.com/naqviO7">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naqviO7&theme=dark&hide_langs_below=1" />
 </a>
 <!---
 snaqvi5/snaqvi5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
