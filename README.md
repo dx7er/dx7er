@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-   A Cyber Security Researcher and Professional Programmer/Freelancer!
+   Developer and Pen-Tester
 </p>
 
 <h2 align="center"> 📈 Stats! </h2> 
