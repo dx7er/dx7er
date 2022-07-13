@@ -7,9 +7,9 @@
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-<p align="center">
+<h2><p align="center">
    Developer and Pen-Tester
-</p>
+</p></h2>
 
 <h2 align="center"> 📈 Stats! </h2> 
 
