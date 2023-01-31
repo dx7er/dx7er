@@ -3,7 +3,6 @@
   <img src="https://img.shields.io/badge/c/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
   <img src="https://img.shields.io/badge/bash%20-%2300599C.svg?&style=for-the-badge&logo=bash%2B%2B&ogoColor=white"/> 
   <img src="https://img.shields.io/badge/Pentester%20-%2300599C.svg?&style=for-the-badge&logo=bash%2B%2B&ogoColor=white"/> 
-  <img src="https://img.shields.io/badge/Machine Learning%20-%2300599C.svg?&style=for-the-badge&logo=bash%2B%2B&ogoColor=white"/> 
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
