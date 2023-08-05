@@ -7,7 +7,7 @@
 </p>
 
 <h2><p align="center">
-   Developer and Pen-Tester
+   Penetration Tester | Developer | InfoSec Services Provider   
 </p></h2>
 
 <h2 align="center"> 📈 Stats! </h2> 
