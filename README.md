@@ -13,10 +13,10 @@
 <h2 align="center"> 📈 Stats! </h2> 
 
 <p align="center">
-<a href="https://github.com/naqviO7">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=naqviO7&show_icons=true&theme=dark&line_height=27" alt="Naqvi's github stats"/></a>
-<a href="https://github.com/naqviO7">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naqviO7&theme=dark&hide_langs_below=1" /></a>
+<a href="https://github.com/dx7er">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dx7er&show_icons=true&theme=dracula&line_height=27" alt="Naqvi's github stats"/></a>
+<a href="https://github.com/dx7er">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dx7er&theme=radical&hide_langs_below=1" /></a>
 </p>
 <!---
 naqviO7/naqviO7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
