@@ -7,7 +7,7 @@
 </p>
 
 <h2><p align="center">
-   Penetration Tester | Developer | InfoSec Services Provider | OSINT Investigator  
+    InfoSec Services Provider | OSINT Investigator | Pentester & Developer  
 </p></h2>
 
 <h2 align="center"> 📈 Stats! </h2> 
