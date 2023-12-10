@@ -1,13 +1,14 @@
 <h2 align="center"> 👋 Hi, its Syed Saqlain!</h2> 
 <p align="center">
+  <img src="https://img.shields.io/badge/PenTest%20-%2300599C.svg?&style=for-the-badge&logo=bash%2B%2B&ogoColor=white"/> 
+  <img src="https://img.shields.io/badge/OSINT%20-%2300599C.svg?&style=for-the-badge&logo=bash%2B%2B&ogoColor=white"/>
+  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/c/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
   <img src="https://img.shields.io/badge/bash%20-%2300599C.svg?&style=for-the-badge&logo=bash%2B%2B&ogoColor=white"/> 
-  <img src="https://img.shields.io/badge/Pentester%20-%2300599C.svg?&style=for-the-badge&logo=bash%2B%2B&ogoColor=white"/> 
-  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 <h2><p align="center">
-    InfoSec Services Provider | OSINT Investigator | Pentester & Developer  
+    Penetration Tester | OSINT Investigator | Hacker
 </p></h2>
 
 <h2 align="center"> 📈 Stats! </h2> 
