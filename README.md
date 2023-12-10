@@ -8,7 +8,7 @@
 </p>
 
 <h2><p align="center">
-    Penetration Tester | OSINT Investigator | Hacker
+    Security Researcher | OSINT Investigator | Developer
 </p></h2>
 
 <h2 align="center"> 📈 Stats! </h2> 
