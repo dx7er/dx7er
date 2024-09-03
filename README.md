@@ -8,7 +8,7 @@
 </p>
 
 <h2><p align="center">
-    Security Researcher | OSINT Investigator | Developer
+    OSINT Expert / Investigator | Ethical Hacker & Penetration Tester
 </p></h2>
 
 <h2 align="center"> 📈 Stats! </h2> 
