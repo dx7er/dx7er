@@ -14,7 +14,7 @@
 ## About Me
 ```bash
 > whoami
-Penetration Tester | Digital Forensics Investigator | Cyber Security Researcher
+Cyber Security Researcher | Digital Forensics & Penetration Testing
 ```
 
 ## Tech Stack
