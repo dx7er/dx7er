@@ -1,0 +1,27 @@
+name: Generate Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: dx7er
+          THEME: github_dark
+          OUTPUT_DIR: output/cards
+
+      - name: Commit & push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "update profile summary cards"
+          file_pattern: output/cards/*.svg
