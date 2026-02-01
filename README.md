@@ -26,8 +26,8 @@ Cyber Security Researcher | Digital Forensics & Penetration Testing
 
 ##  📈 Stats!
 <p align="center">
-  <img width="38%" src="https://raw.githubusercontent.com/dx7er/dx7er/main/profile-summary-card-output/gotham/3-stats.svg" />
-  <img width="38%" src="https://raw.githubusercontent.com/dx7er/dx7er/main/profile-summary-card-output/gotham/1-repos-per-language.svg" />
+  <img width="36%" src="https://raw.githubusercontent.com/dx7er/dx7er/main/profile-summary-card-output/gotham/3-stats.svg" />
+  <img width="36%" src="https://raw.githubusercontent.com/dx7er/dx7er/main/profile-summary-card-output/gotham/1-repos-per-language.svg" />
 </p>
 
 
