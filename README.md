@@ -24,14 +24,12 @@ Cyber Security Researcher | Digital Forensics & Penetration Testing
 </p>
 
 ##  📈 Stats!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dx7er&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" />
+</p>
 
 <p align="center">
-  <a href="https://github.com/dx7er">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dx7er&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff" />
-  </a>
-  <a href="https://github.com/dx7er">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dx7er&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dx7er&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" />
 </p>
 
 ---
