@@ -25,14 +25,16 @@ Cyber Security Researcher | Digital Forensics & Penetration Testing
 
 
 ##  📈 Stats!
-<picture>
-  <source 
-    srcset="https://raw.githubusercontent.com/dx7er/dx7er/main/output/stats_langs.svg#gh-dark-mode-only"
-    media="(prefers-color-scheme: dark)">
-  <img 
-    src="https://raw.githubusercontent.com/dx7er/dx7er/main/output/stats_langs.svg"
-    alt="Top Languages">
-</picture>
+<p align="center">
+     <picture>
+       <source 
+         srcset="https://raw.githubusercontent.com/dx7er/dx7er/main/output/stats.svg#gh-dark-mode-only"
+         media="(prefers-color-scheme: dark)">
+       <img 
+         src="https://raw.githubusercontent.com/dx7er/dx7er/main/output/stats.svg"
+         alt="GitHub Stats">
+     </picture>
+</p>
 
 ---
 <p align="center">
