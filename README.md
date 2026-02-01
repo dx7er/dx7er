@@ -23,18 +23,14 @@ Cyber Security Researcher | Digital Forensics & Penetration Testing
   <img src="https://skillicons.dev/icons?i=python,bash,linux,kali,github,vscode,git,debian,ubuntu,md,cpp,pwsh" />
 </p>
 
-##  📈 Stats!
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dx7er&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dx7er&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" />
-</p>
+##  📈 Stats!
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=dx7er&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dx7er&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+</div>
 
 ---
-
-
 <p align="center">
   <i>"Curiosity is the best debugging tool."</i>
 </p>
