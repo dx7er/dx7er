@@ -14,7 +14,7 @@
 ## About Me
 ```bash
 > whoami
-Cyber Security Researcher | Digital Forensics & Penetration Testing
+Cyber Security Researcher | Digital Forensics & Penetration Testing | Cloud Security (Azure)
 ```
 
 ## Tech Stack
