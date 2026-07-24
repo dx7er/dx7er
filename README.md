@@ -25,9 +25,13 @@ Cyber Security Researcher | Digital Forensics & Penetration Testing | Cloud Secu
 
 
 ##  📈 Stats!
-<p align="center">
+<!-- <p align="center">
   <img width="36%" src="https://raw.githubusercontent.com/dx7er/dx7er/main/profile-summary-card-output/gotham/3-stats.svg" />
   <img width="36%" src="https://raw.githubusercontent.com/dx7er/dx7er/main/profile-summary-card-output/gotham/1-repos-per-language.svg" />
+</p> -->
+<p align="center">
+  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dx7er&theme=github_dark" />
+  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dx7er&theme=github_dark" />
 </p>
 
 
