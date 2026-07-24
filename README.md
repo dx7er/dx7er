@@ -18,9 +18,11 @@ Cyber Security Researcher | Digital Forensics & Penetration Testing | Cloud Secu
 ```
 
 ## Tech Stack
-
-<p align="center">
+<!-- <p align="center">
   <img src="https://skillicons.dev/icons?i=python,bash,linux,kali,github,vscode,git,debian,ubuntu,md,cpp,pwsh" />
+</p> -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,pwsh,linux,kali,windows,azure,aws,docker,terraform,github,git,vscode,md" />
 </p>
 
 
